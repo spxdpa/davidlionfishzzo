@@ -48,7 +48,7 @@ whoami = "Artist"
 bioImageUrl = ""
 useGravatar = false
 location = "Bristol, UK"
-organization = "Solar"
+# organization = "Solar"
 link = "https://davidlionfish.xyz"
 
 # sidebar
@@ -58,8 +58,8 @@ enableSidebar = true
 enableSidebarTags = true
 enableSidebarSeries = true
 enableSidebarCategories = true
-enableHomeSidebarTitles = true
-enableListSidebarTitles = true
+enableHomeSidebarTitles = false
+enableListSidebarTitles = false
 enableToc = true
 hideToc = false
 tocFolding = true
