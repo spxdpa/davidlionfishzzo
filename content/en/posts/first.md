@@ -1,7 +1,7 @@
 ---
-title: "First"
-date: 2019-12-19T12:00:06+09:00
-description: "first"
+title: "first"
+date: 2020-07-11T12:00:06+09:00
+description: "The first post to test it all works!"
 draft: false
 hideToc: false
 enableToc: true
