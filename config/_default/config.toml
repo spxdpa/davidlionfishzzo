@@ -1,6 +1,6 @@
-baseURL = "http://example.org"
+baseURL = ""
 title = "Hugo Zzo Theme"
-theme = "zzo"
+theme = "zzo-static"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
