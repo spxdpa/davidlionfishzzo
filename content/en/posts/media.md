@@ -1,13 +1,13 @@
 ---
 title: "Testing Media"
-date: 2019-12-19T12:00:06+09:00
+date: 2020-07-10T12:00:06+09:00
 description: "Testing I can upload media files"
 draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
 author: davidlionfish
-authorEmoji: 👺
+authorEmoji: 👽
 tags: 
 - shortcodes
 - privacy

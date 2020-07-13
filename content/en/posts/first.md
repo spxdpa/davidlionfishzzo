@@ -1,5 +1,5 @@
 ---
-title: "first"
+title: "First post"
 date: 2020-07-11T12:00:06+09:00
 description: "The first post to test it all works!"
 draft: false
@@ -8,14 +8,15 @@ enableToc: true
 enableTocContent: false
 author: davidlionfish
 authorEmoji: 👺
+pinned: true
 tags: 
-- shortcodes
-- privacy
+- davidlionfish
+- welcome
 image: images/thumbs/porto.jpg
 ---
 
-First post front text is here
-<!--more-->
+The first post on my site.
+
 ---
 
-Content is here
+With more text here too.
