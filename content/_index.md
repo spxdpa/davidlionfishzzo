@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - DAVIDLIONFISH
     subtitle:
-      - The world’s fastest framework for building websites
+      - The home of davidlionfish on the web
     titleColor: 
     titleShadow: true
     titleFontSize: 44
