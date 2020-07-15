@@ -3,7 +3,7 @@ logoType = "short" # long, short
 description = "davidlionfish based on hugo zzo theme."
 custom_css = []
 custom_js = []
-useFaviconGenerator = true # https://www.favicon-generator.org/
+useFaviconGenerator = false # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
@@ -49,7 +49,7 @@ bioImageUrl = ""
 useGravatar = false
 location = "Bristol, UK"
 # organization = "Solar"
-link = "https://davidlionfish.xyz"
+link = "https://www.davidlionfish.xyz"
 
 # sidebar
 enableBio = true
