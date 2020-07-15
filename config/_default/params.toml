@@ -1,6 +1,6 @@
 logoText = "davidlionfish"
 logoType = "short" # long, short
-logu = true
+logo = true
 description = "davidlionfish based on hugo zzo theme."
 custom_css = []
 custom_js = []
