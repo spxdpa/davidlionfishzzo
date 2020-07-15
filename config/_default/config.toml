@@ -3,8 +3,8 @@ title = "davidlionfish"
 theme = "zzo-static"
 
 # defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
-hasCJKLanguage = false
+# defaultContentLanguageInSubdir = false
+# hasCJKLanguage = false
 
 summaryLength = 70
 buildFuture = true
