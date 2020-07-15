@@ -92,7 +92,7 @@ fullContents = false
 
 # comment
 enableComment = true
-disqus_shortname = "davidlionfish"
+disqus_shortname = "davidlionfish-xyz"
 commento = false
 
 [telegram]
