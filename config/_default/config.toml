@@ -1,10 +1,10 @@
-baseURL = "https://www.davidlionfish.xyz/"
+baseURL = "https://davidlionfish.xyz/"
 title = "davidlionfish"
 theme = "zzo-static"
 
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
-hasCJKLanguage = true
+# defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+hasCJKLanguage = false
 
 summaryLength = 70
 buildFuture = true

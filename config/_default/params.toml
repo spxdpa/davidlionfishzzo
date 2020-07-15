@@ -1,9 +1,10 @@
 logoText = "davidlionfish"
 logoType = "short" # long, short
+logo = true
 description = "davidlionfish based on hugo zzo theme."
 custom_css = []
 custom_js = []
-useFaviconGenerator = false # https://www.favicon-generator.org/
+useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
