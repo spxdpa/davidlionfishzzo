@@ -49,9 +49,9 @@ bioImageUrl = ""
 useGravatar = false
 location = "Bristol, UK"
 # organization = "Solar"
-[web](https://www.davidlionfish.xyz)
 link = "https://www.davidlionfish.xyz"
-link = "https://www.davidlionfish.xyz"
+link = "https://blockscan.com/d/davidlionfish.eth"
+link = "https://blockscan.com/d/davidlionfish.crypto"
 
 # sidebar
 enableBio = true
