@@ -49,7 +49,7 @@ bioImageUrl = ""
 useGravatar = false
 location = "Bristol, UK"
 # organization = "Solar"
-link = "https://www.davidlionfish.xyz"
+# link = "https://www.davidlionfish.xyz"
 
 # sidebar
 enableBio = true
@@ -173,6 +173,7 @@ commento = false
   dev-to = ""
   gitea = ""
   google-scholar = ""
+  link = "https://blockscan.com/d/davidlionfish.eth"
 
 [donationOptions]
   enable = false
