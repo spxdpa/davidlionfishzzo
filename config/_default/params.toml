@@ -49,6 +49,8 @@ bioImageUrl = ""
 useGravatar = false
 location = "Bristol, UK"
 # organization = "Solar"
+link = "[web](https://www.davidlionfish.xyz)"
+link = "https://www.davidlionfish.xyz"
 link = "https://www.davidlionfish.xyz"
 
 # sidebar
