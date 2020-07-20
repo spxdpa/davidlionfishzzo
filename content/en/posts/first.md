@@ -1,7 +1,7 @@
 ---
-title: "First post"
+title: "First post on the new site"
 date: 2020-07-11T12:00:06+09:00
-description: "The first post to test it all works!"
+description: "The first post using Hugo static themesand Netlify. This will test it all works!"
 draft: false
 hideToc: false
 enableToc: true
@@ -15,8 +15,38 @@ tags:
 image: images/thumbs/porto.jpg
 ---
 
-The first post on my site.
+The first post on my site. I will type text here and can also add any type of rich media.
 
 ---
 
-With more text here too.
+Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
+<!--more-->
+---
+
+## Instagram Simple Shortcode
+
+{{< instagram_simple BGvuInzyFAe hidecaption >}}
+
+<br>
+
+---
+
+## YouTube Privacy Enhanced Shortcode
+
+{{< youtube ZJthWmvUzzc >}}
+
+<br>
+
+---
+
+## Twitter Simple Shortcode
+
+{{< twitter_simple 1085870671291310081 >}}
+
+<br>
+
+---
+
+## Vimeo Simple Shortcode
+
+{{< vimeo_simple 48912912 >}}
