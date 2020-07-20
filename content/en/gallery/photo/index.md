@@ -1,10 +1,10 @@
 ---
-title: Photo
+title: Photography
 date: 2020-07-20T10:20:16+09:00
 description: Photo Gallery
 type: gallery
 mode: one-by-one
-description: "photo gallery"
+description: "The gallery section can display a portfolio of photos for easy access but again this may not be needed"
 images:
   - image: porto.jpg
     caption: ocean, lighthouse
