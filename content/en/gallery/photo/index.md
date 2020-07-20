@@ -14,7 +14,7 @@ images:
     caption: prehistoric fish
   - image: train.jpg
     caption: train
-image: images/feature2/gallery.png
+image: gallery/photo/shell.jpg
 ---
 
 Examples of photos
