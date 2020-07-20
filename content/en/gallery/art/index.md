@@ -1,10 +1,10 @@
 ---
 title: "Art"
-date: 2019-10-31T10:20:16+09:00
+date: 2020-07-20T10:20:16+09:00
 type: "gallery"
 mode: "at-once" # at-once is a default value
 description: "art gallery"
-image: images/feature2/bam.png
+# image: images/feature2/bam.png
 ---
 
 Examples of art
