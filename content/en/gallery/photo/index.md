@@ -1,19 +1,19 @@
 ---
 title: Photo
-date: 2019-10-31T10:20:16+09:00
+date: 2020-07-20T10:20:16+09:00
 description: Photo Gallery
 type: gallery
 mode: one-by-one
 description: "photo gallery"
 images:
-  - image: beach.jpg
-    caption: beach, women, car
-  - image: beautiful.jpg
-    caption: beautiful women
-  - image: people.jpg
-    caption: man
-  - image: child.jpg
-    caption: child
+  - image: porto.jpg
+    caption: ocean, lighthouse
+  - image: shell.jpg
+    caption: beach
+  - image: fish.jpg
+    caption: prehistoric fish
+  - image: train.jpg
+    caption: train
 image: images/feature2/gallery.png
 ---
 
