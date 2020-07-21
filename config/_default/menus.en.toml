@@ -11,20 +11,26 @@
   weight = 2
 
 [[main]]
-  identifier = "gallery"
-  name = "Gallery"
-  url = "gallery"
-  weight = 3
-    
-[[main]]
-  parent = "gallery"
-  name = "Art"
-  url = "gallery/art"
+  identifier = "eth"
+  name = "eth"
+  url = "https://blockscan.com/d/davidlionfish.eth"
+  weight = 3 
 
-[[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
+  # [[main]]
+  # identifier = "gallery"
+  # name = "Gallery"
+  # url = "gallery"
+  # weight = 3
+    
+  # [[main]]
+  # parent = "gallery"
+  # name = "Art"
+  # url = "gallery/art"
+
+  # [[main]]
+  # parent = "gallery"
+  # name = "Photo"
+  # url = "gallery/photo"
 
 [[main]]
   identifier = "archive"
