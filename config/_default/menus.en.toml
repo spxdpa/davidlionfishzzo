@@ -1,26 +1,26 @@
 [[main]]
   identifier = "about"
-  name = "About"
+  name = "about"
   url = "about"
   weight = 1
 
-[[main]]
-  identifier = "posts"
-  name = "Posts"
-  url = "posts"
-  weight = 2
+  # [[main]]
+  # identifier = "posts"
+  # name = "Posts"
+  # url = "posts"
+  # weight = 2
 
 [[main]]
   identifier = "eth"
   name = ".eth"
   url = "https://blockscan.com/d/davidlionfish.eth"
-  weight = 3 
+  weight = 2 
 
 [[main]]
   identifier = "crypto"
   name = ".crypto"
   url = "https://viewblock.io/unstoppable/davidlionfish.crypto"
-  weight = 4   
+  weight = 3   
 
   # [[main]]
   # identifier = "gallery"
@@ -40,9 +40,9 @@
 
 [[main]]
   identifier = "archive"
-  name = "Archive"
+  name = "archive"
   url = "archive"
-  weight = 5
+  weight = 4
 
   # [[main]]
   #  identifier = "presentation"
