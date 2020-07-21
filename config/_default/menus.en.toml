@@ -12,9 +12,15 @@
 
 [[main]]
   identifier = "eth"
-  name = "eth"
+  name = ".eth"
   url = "https://blockscan.com/d/davidlionfish.eth"
   weight = 3 
+
+[[main]]
+  identifier = "crypto"
+  name = ".crypto"
+  url = "https://viewblock.io/unstoppable/davidlionfish.crypto"
+  weight = 4   
 
   # [[main]]
   # identifier = "gallery"
@@ -36,7 +42,7 @@
   identifier = "archive"
   name = "Archive"
   url = "archive"
-  weight = 4
+  weight = 5
 
   # [[main]]
   #  identifier = "presentation"
