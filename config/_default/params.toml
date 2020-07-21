@@ -173,7 +173,6 @@ commento = false
   dev-to = ""
   gitea = ""
   google-scholar = ""
-  soundcloud = "https://soundcloud.com/david-anderson-311246111"
 
 [donationOptions]
   enable = false
