@@ -13,7 +13,7 @@
 [[main]]
   identifier = "eth"
   name = ".eth"
-  url = "https://blockscan.com/d/davidlionfish.eth"
+  url = "https://gateway.pinata.cloud/ipfs/QmS1tTjcLsBVBGuDQ1J6V94yjpGJtUDv8mmy3CsHdSVkQW/"
   weight = 2 
 
 [[main]]
