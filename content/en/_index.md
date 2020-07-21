@@ -8,7 +8,7 @@ header:
     title:
       - DAVIDLIONFISH
     subtitle:
-      - The home of davidlionfish on the web
+      - Coffee, crypto and code...
     titleColor: 
     titleShadow: true
     titleFontSize: 44
