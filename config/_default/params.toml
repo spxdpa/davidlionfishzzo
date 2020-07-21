@@ -23,7 +23,7 @@ minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 homeHeaderType = "text" # text, img, slide
 
 # menu
-showMobileMenuTerms = ["tags", "categories", "series"]
+# showMobileMenuTerms = ["tags", "categories", "series"]
 
 # body
 enableBreadcrumb = true
