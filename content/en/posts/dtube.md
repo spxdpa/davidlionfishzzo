@@ -1,5 +1,5 @@
 ---
-title: "DTube"
+title: "dtube"
 date: 2020-07-10T12:00:06+09:00
 description: "Testing I can upload dtube video"
 draft: false
