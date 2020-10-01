@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: davidlionfish.xyz
-Token: b8cbfc4f09069dd380dba1b53150e2c4bf71899cb823867c3e53ee8ead24cfe4
