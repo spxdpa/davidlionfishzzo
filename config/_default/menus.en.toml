@@ -25,7 +25,7 @@
 [[main]]
   identifier = "dcl"
   name = ".dcl"
-  url = "https://play.decentraland.org/?position=0%2C0&realm=fenrir-amber"
+  url = "http/davidlionfish.dcl.eth"
   weight = 4   
 
   # [[main]]
