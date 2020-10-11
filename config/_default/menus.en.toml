@@ -25,7 +25,7 @@
 [[main]]
   identifier = "dcl"
   name = ".dcl"
-  url = "http/davidlionfish.dcl.eth"
+  url = "http://davidlionfish.dcl.eth.link"
   weight = 4   
 
   # [[main]]
