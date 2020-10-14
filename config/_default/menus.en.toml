@@ -25,8 +25,14 @@
 [[main]]
   identifier = "dcl"
   name = ".dcl"
-  url = "http://davidlionfish.dcl.eth.link"
+  url = "https://events.decentraland.org/en/"
   weight = 4   
+
+[[main]]
+  identifier = "opensea"
+  name = "nft"
+  url = "https://opensea.io/storefront/davidlionfish"
+  weight = 5  
 
   # [[main]]
   # identifier = "gallery"
