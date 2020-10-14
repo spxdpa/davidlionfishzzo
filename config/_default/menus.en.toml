@@ -54,7 +54,7 @@
   identifier = "archive"
   name = "archive"
   url = "archive"
-  weight = 5
+  weight = 6
 
   # [[main]]
   #  identifier = "presentation"
