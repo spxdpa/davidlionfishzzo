@@ -44,7 +44,7 @@ pubPaginate = 20
 # whoami
 myname = "davidlionfish"
 # email = "spxdpa@googlemail.com"
-whoami = "Artist"
+whoami = "Creator"
 bioImageUrl = ""
 useGravatar = false
 location = "Bristol, UK"
