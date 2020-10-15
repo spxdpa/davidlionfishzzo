@@ -17,6 +17,7 @@ image: images/thumbs/media.jpg
 Bittube
 
 <iframe width="560" height="315" src="https://bittube.video/videos/embed/4223972c-1973-4135-b3d7-2d05062d1fe4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src=https://bittube.video/videos/embed/5a35c6dd-8c4f-45c2-b9d4-95cef94ed313?title=0&warningTitle=0&controls=0&peertubeLink=0 frameborder="0" allowfullscreen></iframe>
 
 lbry
 
