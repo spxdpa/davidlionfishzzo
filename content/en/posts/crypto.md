@@ -1,5 +1,5 @@
 ---
-title: "crypto"
+title: "first crypto post"
 date: 2020-07-20
 description: "Information on cryptocurrencies and web 3.0 links"
 draft: false
@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: davidlionfish
 authorEmoji: 👽
+pinned: true
 tags: 
 - privacy
 - crypto

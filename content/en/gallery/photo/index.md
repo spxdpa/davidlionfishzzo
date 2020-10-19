@@ -1,5 +1,5 @@
 ---
-title: photography
+title: first photography post
 date: 2020-07-20T10:20:16+09:00
 description: Photo Gallery
 type: gallery
@@ -15,6 +15,7 @@ images:
   - image: train.jpg
     caption: train
 image: gallery/photo/shell.jpg
+pinned: true
 tags:
 - photo
 ---

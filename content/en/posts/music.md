@@ -1,5 +1,5 @@
 ---
-title: "music"
+title: "first music post"
 date: 2020-07-10T12:00:06+09:00
 description: "Where all the music I make is located with links to social music platforms"
 draft: false
@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: davidlionfish
 authorEmoji: 👽
+pinned: true
 tags: 
 - music
 - soundcloud

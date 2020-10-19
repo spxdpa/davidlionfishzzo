@@ -13,31 +13,31 @@
 [[main]]
   identifier = "art"
   name = "art"
-  url =  "https://www.davidlionfish.xyz/gallery/art/"
+  url =  "https://www.davidlionfish.xyz/tags/art/"
   weight = 2 
 
 [[main]]
   identifier = "photo"
   name = "photo"
-  url =  "https://www.davidlionfish.xyz/gallery/photo/"
+  url =  "https://www.davidlionfish.xyz/tags/photo/"
   weight = 3   
 
 [[main]]
   identifier = "music"
   name = "music"
-  url =  "https://www.davidlionfish.xyz/posts/music/"
+  url =  "https://www.davidlionfish.xyz/tags/music/"
   weight = 4   
 
 [[main]]
   identifier = "video"
   name = "video"
-  url =  "https://www.davidlionfish.xyz/posts/video/"
+  url =  "https://www.davidlionfish.xyz/tags/video/"
   weight = 5
 
 [[main]]
   identifier = "crypto"
   name = "crypto"
-  url =  "https://www.davidlionfish.xyz/posts/crypto/"
+  url =  "https://www.davidlionfish.xyz/tags/crypto/"
   weight = 6  
 
   # [[main]]
