@@ -9,8 +9,10 @@ enableTocContent: false
 author: davidlionfish
 authorEmoji: 👽
 tags: 
-- shortcodes
-- privacy
+- music
+- soundcloud
+- audius
+- spreaker
 image: images/thumbs/media.jpg
 ---
 

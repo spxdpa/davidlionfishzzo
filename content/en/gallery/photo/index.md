@@ -15,4 +15,6 @@ images:
   - image: train.jpg
     caption: train
 image: gallery/photo/shell.jpg
+tags:
+- photo
 ---

@@ -9,8 +9,8 @@ enableTocContent: false
 author: davidlionfish
 authorEmoji: 👽
 tags: 
-- shortcodes
-- privacy
+- video
+- lbry
 image: gallery/photo/fish.jpg
 ---
 

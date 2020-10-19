@@ -10,6 +10,10 @@ author: davidlionfish
 authorEmoji: 👽
 tags: 
 - privacy
+- crypto
+- web3
+- nft
+- eth
 image: images/thumbs/steampunk.jpg
 ---
 
