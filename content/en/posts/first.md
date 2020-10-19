@@ -1,5 +1,5 @@
 ---
-title: "first post on the new site"
+title: "first post"
 date: 2020-07-11T12:00:06+09:00
 description: "The first post using Hugo static themes and Netlify. This will test it all works and also contains info on rich media content"
 draft: false
