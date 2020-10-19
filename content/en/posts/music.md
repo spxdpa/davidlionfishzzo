@@ -1,7 +1,7 @@
 ---
-title: "Music"
+title: "music"
 date: 2020-07-10T12:00:06+09:00
-description: "Testing I can upload sound files"
+description: "Where all the music I make is located with links to social music platforms"
 draft: false
 hideToc: false
 enableToc: true

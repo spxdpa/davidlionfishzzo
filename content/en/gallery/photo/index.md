@@ -1,10 +1,10 @@
 ---
-title: Photography
+title: photography
 date: 2020-07-20T10:20:16+09:00
 description: Photo Gallery
 type: gallery
 mode: one-by-one
-description: "The gallery section can display a portfolio of photos for easy access but again this may not be needed"
+description: "Where all my photography is located with links to social photo platforms"
 images:
   - image: porto.jpg
     caption: ocean, lighthouse
@@ -16,5 +16,3 @@ images:
     caption: train
 image: gallery/photo/shell.jpg
 ---
-
-Examples of photos

@@ -1,7 +1,7 @@
 ---
 title: "video"
 date: 2020-07-10T12:00:06+09:00
-description: "Testing I can upload video"
+description: "Where all my videos are located with links to social video platforms"
 draft: false
 hideToc: false
 enableToc: true

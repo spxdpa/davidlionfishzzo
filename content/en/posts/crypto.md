@@ -1,7 +1,7 @@
 ---
 title: "crypto"
 date: 2020-07-20
-description: "crypto info"
+description: "Information on cryptocurrencies and web 3.0 links"
 draft: false
 hideToc: false
 enableToc: true
