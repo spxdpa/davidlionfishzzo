@@ -11,28 +11,34 @@
   # weight = 2
 
 [[main]]
-  identifier = "eth"
-  name = ".eth"
-  url = "https://gateway.pinata.cloud/ipfs/QmS1tTjcLsBVBGuDQ1J6V94yjpGJtUDv8mmy3CsHdSVkQW/"
+  identifier = "art"
+  name = "art"
+  url =  "https://www.davidlionfish.xyz/gallery/art/"
   weight = 2 
 
 [[main]]
-  identifier = "crypto"
-  name = ".crypto"
-  url = "https://viewblock.io/unstoppable/davidlionfish.crypto"
+  identifier = "photo"
+  name = "photo"
+  url =  "https://www.davidlionfish.xyz/gallery/photo/"
   weight = 3   
 
 [[main]]
-  identifier = "dcl"
-  name = ".dcl"
-  url = "https://events.decentraland.org/en/"
+  identifier = "music"
+  name = "music"
+  url =  "https://www.davidlionfish.xyz/posts/music/"
   weight = 4   
 
 [[main]]
-  identifier = "opensea"
-  name = "nft"
-  url = "https://opensea.io/storefront/davidlionfish"
-  weight = 5  
+  identifier = "video"
+  name = "video"
+  url =  "https://www.davidlionfish.xyz/posts/video/"
+  weight = 5
+
+[[main]]
+  identifier = "crypto"
+  name = "crypto"
+  url =  "https://www.davidlionfish.xyz/posts/crypto/"
+  weight = 6  
 
   # [[main]]
   # identifier = "gallery"
@@ -54,7 +60,7 @@
   identifier = "archive"
   name = "archive"
   url = "archive"
-  weight = 6
+  weight = 7
 
   # [[main]]
   #  identifier = "presentation"
