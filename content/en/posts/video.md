@@ -8,6 +8,7 @@ enableToc: true
 enableTocContent: false
 author: davidlionfish
 authorEmoji: 👽
+pinned: true
 tags: 
 - video
 - lbry
