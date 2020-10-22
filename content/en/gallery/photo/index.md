@@ -1,5 +1,5 @@
 ---
-title: first photography post
+title: photo gallery
 date: 2020-07-20T10:20:16+09:00
 description: Photo Gallery
 type: gallery
