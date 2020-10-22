@@ -1,7 +1,7 @@
 ---
-title: "crypto info"
+title: "crypto room"
 date: 2020-07-20
-description: "Information on my cryptocurrency and web 3.0 links"
+description: "First post with information on cryptocurrency and my web 3.0 links"
 draft: false
 hideToc: false
 enableToc: true

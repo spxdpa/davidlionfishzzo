@@ -1,7 +1,7 @@
 ---
-title: "first video post"
+title: "video room"
 date: 2020-07-10T12:00:06+09:00
-description: "Where all my videos are located with links to social video platforms"
+description: "First post with links to social video platforms"
 draft: false
 hideToc: false
 enableToc: true

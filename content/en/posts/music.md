@@ -1,7 +1,7 @@
 ---
-title: "first music post"
+title: "music room"
 date: 2020-07-10T12:00:06+09:00
-description: "Where all the music I make is located with links to social music platforms"
+description: "First post with links to social music platforms"
 draft: false
 hideToc: false
 enableToc: true
