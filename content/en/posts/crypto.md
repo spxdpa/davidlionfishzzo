@@ -1,7 +1,7 @@
 ---
-title: "first crypto post"
+title: "crypto info"
 date: 2020-07-20
-description: "Information on cryptocurrencies and web 3.0 links"
+description: "Information on my cryptocurrency and web 3.0 links"
 draft: false
 hideToc: false
 enableToc: true
@@ -27,3 +27,5 @@ davidlionfish.crypto has my [wallet info on unstoppable domain](https://viewbloc
 davidlionfish.dcl.eth.link is for the metaverse 3D world [Decentraland](https://events.decentraland.org/en/)
 
 davidlionfishart is my [Opensea store](https://opensea.io/storefront/davidlionfish) and also davidlionfishmintbase is the [mintbase store](https://opensea.io/storefront/davidlionfish-1)
+
+The zilliqa based [Mintable store](https://zilliqa.mintable.app/store/davidlionfish-solar-art/3581ff9b-064b-440c-b8a2-45e49ae271a0)
