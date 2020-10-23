@@ -1,5 +1,5 @@
 ---
-title: "video room"
+title: "video"
 date: 2020-07-10T12:00:06+09:00
 description: "First post with links to social video platforms"
 draft: false

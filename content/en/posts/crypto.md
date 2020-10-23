@@ -1,5 +1,5 @@
 ---
-title: "crypto room"
+title: "crypto"
 date: 2020-07-20
 description: "First post with information on cryptocurrency and my web 3.0 links"
 draft: false
