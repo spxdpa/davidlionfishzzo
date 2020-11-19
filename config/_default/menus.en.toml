@@ -11,22 +11,34 @@
   # weight = 2
 
 [[main]]
-  identifier = "eth"
-  name = ".eth"
-  url = "https://gateway.pinata.cloud/ipfs/QmS1tTjcLsBVBGuDQ1J6V94yjpGJtUDv8mmy3CsHdSVkQW/"
+  identifier = "art"
+  name = "art"
+  url =  "https://www.davidlionfish.xyz/tags/art/"
   weight = 2 
 
 [[main]]
-  identifier = "crypto"
-  name = ".crypto"
-  url = "https://viewblock.io/unstoppable/davidlionfish.crypto"
+  identifier = "photo"
+  name = "photo"
+  url =  "https://www.davidlionfish.xyz/tags/photo/"
   weight = 3   
 
 [[main]]
-  identifier = "dcl"
-  name = ".dcl"
-  url = "https://play.decentraland.org/?position=0%2C0&realm=fenrir-amber"
+  identifier = "music"
+  name = "music"
+  url =  "https://www.davidlionfish.xyz/tags/music/"
   weight = 4   
+
+[[main]]
+  identifier = "video"
+  name = "video"
+  url =  "https://www.davidlionfish.xyz/tags/video/"
+  weight = 5
+
+[[main]]
+  identifier = "crypto"
+  name = "crypto"
+  url =  "https://www.davidlionfish.xyz/tags/crypto/"
+  weight = 6  
 
   # [[main]]
   # identifier = "gallery"
@@ -48,7 +60,7 @@
   identifier = "archive"
   name = "archive"
   url = "archive"
-  weight = 5
+  weight = 7
 
   # [[main]]
   #  identifier = "presentation"
