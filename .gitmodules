@@ -1,3 +1,3 @@
 [submodule "zzo"]
 path = zzo
-url = git:https://github.com/zzossig/hugo-theme-zzo/
+url = https://github.com/zzossig/hugo-theme-zzo
