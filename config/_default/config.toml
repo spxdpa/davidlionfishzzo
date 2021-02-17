@@ -18,8 +18,6 @@ rssLimit = 100
 enableGitInfo = false
 googleAnalytics = ""
 
-ignoreErrors = ["error-remote-getjson"]
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
