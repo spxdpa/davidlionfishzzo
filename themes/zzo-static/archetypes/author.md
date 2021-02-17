@@ -20,7 +20,7 @@ socialOptions:
   twitter: ""
   github: ""
   stack-overflow: ""
-  instagram: ""
+ # instagram: ""
   google-plus: ""
   youtube: ""
   medium: ""
