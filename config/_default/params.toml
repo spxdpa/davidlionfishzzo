@@ -1,6 +1,6 @@
-logoText = "davidlionfish"
+logoText = "lionstarfish"
 logoType = "short" # long, short
-description = "davidlionfish based on hugo zzo theme."
+description = "lionstarfish based on hugo zzo theme."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -42,7 +42,7 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "davidlionfish"
+myname = "lionstarfish"
 # email = "spxdpa@googlemail.com"
 whoami = "Creator"
 bioImageUrl = ""
