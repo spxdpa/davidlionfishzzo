@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - DAVIDLIONFISH
+      - LIONSTARFISH
     subtitle:
-      - Coffee, crypto and code...
+      - Cypherpunk
     titleColor: 
     titleShadow: true
     titleFontSize: 44
