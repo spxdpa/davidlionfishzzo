@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lionstarfish
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lionstarfish.co
+  * I am lionstarfish (https://keybase.io/lionstarfish) on keybase.
+  * I have a public key ASBV_KL5c-rcVcaZ56kbWq1cG4y8waaavEEaHce27dLASAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012055fca2f973eadc55c699e7a91b5aad5c1b8cbcc1a69abc411a1dc7b6edd2c0480a",
+      "host": "keybase.io",
+      "kid": "012055fca2f973eadc55c699e7a91b5aad5c1b8cbcc1a69abc411a1dc7b6edd2c0480a",
+      "uid": "d89adf6185da2118ef4312a59d134b19",
+      "username": "lionstarfish"
+    },
+    "merkle_root": {
+      "ctime": 1614191183,
+      "hash": "96195965c7e565d1e1ceeb2270969689feff498ae8a268a8082c512996a93ab4f99ecccb2fdec7a4640fa05bb94d002d67fbcecc097c82fcaeb1515571621d5b",
+      "hash_meta": "60e74f06820aa686a7e86090a3f01ea5c886b217be2d47fe32b32ecc580f20d3",
+      "seqno": 19211923
+    },
+    "service": {
+      "entropy": "D+WF9k0cvEsMNK2w68N2gASq",
+      "hostname": "lionstarfish.co",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1614191193,
+  "expire_in": 504576000,
+  "prev": "28f9bad16641de906ee4fc5eaebc1645a1679267780cad54a0485e6fabffe768",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVfyi+XPq3FXGmeepG1qtXBuMvMGmmrxBGh3Htu3SwEgKp3BheWxvYWTESpcCDcQgKPm60WZB3pBu5PxerrwWRaFnkmd4DK1UoEheb6v/52jEIAhEtm2xZVJdKsloJjMaWDcx5XO+wkC3Nik2zAXPig/iAgHCo3NpZ8RAP4ydg3F23ECDEDGK8QFoZoaC814J1IH2PYNs475j/O4kCZd/qK9jG5603IjkTHgrvnmDZdEhbSJ7YmTpk7GsDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKe3FI8cD9HktQ8TodqJTHuh4/UpBI2TvJA2t1hid7nio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lionstarfish
+
+==================================================================
